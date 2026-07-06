@@ -54,7 +54,7 @@ The system allows investigators to:
 
 Developer:
 - Divya Tiwari
-
+- Shubham Makwana
 ---
 
 ## License
